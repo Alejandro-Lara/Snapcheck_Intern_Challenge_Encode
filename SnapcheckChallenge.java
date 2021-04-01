@@ -1,5 +1,5 @@
 
-package snapcheckchallenge;
+//package snapcheckchallenge;
 
 public class SnapcheckChallenge {
 
@@ -7,11 +7,11 @@ public class SnapcheckChallenge {
         if(args.length > 0){
             System.out.println(encrypt(String.join("",args)));
         }
-        System.out.println(encrypt("if man was meant to stay on the ground god would have given us roots"));
+        /*System.out.println(encrypt("if man was meant to stay on the ground god would have given us roots"));
         System.out.println(encrypt("have a nice day"));
         System.out.println(encrypt("feed the dog"));
         System.out.println(encrypt("chillout"));
-        System.out.println(encrypt("p"));
+        System.out.println(encrypt("p")); */
     }
     
     public static String encrypt(String s){
