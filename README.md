@@ -1,0 +1,1 @@
+# Snapcheck_Intern_Challenge_Encode
