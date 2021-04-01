@@ -1,5 +1,5 @@
 
-package snapcheckchallenge;
+//package snapcheckchallenge;
 
 public class SnapcheckChallenge {
 
